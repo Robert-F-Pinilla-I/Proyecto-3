@@ -20,3 +20,6 @@ Capacitación del capitulo de Introducción a Control de Versiones en Udacity.
 
 Autor
 Robert F Pinilla I
+
+Versión
+1.0
