@@ -23,3 +23,6 @@ Robert F Pinilla I
 
 Versión
 1.0
+
+Pais
+Colombia
