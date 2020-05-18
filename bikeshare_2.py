@@ -194,9 +194,9 @@ else:
             print('La persona con el mayor año de fecha de nacimiento es: '+str(primer_nacimiento)[0:4])
             print('La persona con el menor año de fecha de nacimiento es: '+str(ultimo_nacimiento)[0:4])
             print('El año de nacimiento que mas se repite es: '+str(moda_nacimientos)[0:4])
-            print("Gracias por visitarnos")
+            print("Gracias por su visita")
         else:
-            print("Gracias por visitarnos")
+            print("Gracias por su visita")
 #Display contents of the CSV file to the display as requested by the user.          
 def muestra_data(df):
               inicio_loc = 0
@@ -214,4 +214,4 @@ def muestra_data(df):
                    
                    
 muestra_data(df)
-print("Gracias por visitarnos")
+print("Gracias por su visita")
